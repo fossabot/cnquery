@@ -11,7 +11,7 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371
 	github.com/StackExchange/wmi v1.2.1
-	github.com/alecthomas/participle v0.3.0
+	github.com/alecthomas/participle v0.7.1
 	github.com/alecthomas/participle/v2 v2.1.0
 	github.com/aws/aws-sdk-go v1.45.11
 	github.com/aws/aws-sdk-go-v2 v1.21.0
